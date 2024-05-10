@@ -1,14 +1,14 @@
 
 ```css
-[moli@archy ~]$ fetch
+[f1sh@arch ~]$ fetch
 
-                    -@                    moli@archy
+                    -@                    f1sh@arch
                    .##@                   -----------------
-                  .####@                  Username: i.usearchbtw
-                  @#####@                 Alias: moli
+                  .####@                  Username: fish
+                  @#####@                 Alias: f1sh
                 . *######@                From: Saturn
                .##@o@#####@               Website: moli.lat
-              /############@              Instagram: i.usearchbtw
+              /############@              Instagram: lostfishmoli
              /##############@             WM: Hyprland
             @######@**%######@            Terminal: kitty
            @######`     %#####o           CPU: Intel i5-12400F @ 4.000GHz
