@@ -8,7 +8,7 @@
                   @#####@                 Alias: f1sh
                 . *######@                From: Saturn
                .##@o@#####@               Website: moli.lat
-              /############@              Instagram: lostfishmoli
+              /############@              Instagram: lxstf1sh
              /##############@             WM: Hyprland
             @######@**%######@            Terminal: kitty
            @######`     %#####o           CPU: Intel i5-12400F @ 4.000GHz
