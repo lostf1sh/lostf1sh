@@ -1,20 +1,27 @@
+# Hey there! 👋
 
-```css
-[f1sh@arch ~]$ fetch
+I'm **f1sh** from Saturn 🪐
 
-                    -@                    f1sh@arch
-                   .##@                   -----------------
-                  .####@                  Username: fish
-                  @#####@                 Alias: f1sh
-                . *######@                From: Saturn
-               .##@o@#####@               Website: moli.lat
-              /############@              Instagram: lxstf1sh
-             /##############@             WM: Hyprland
-            @######@**%######@            Terminal: kitty
-           @######`     %#####o           CPU: Intel i5-12400F @ 4.000GHz
-          @######@       ######%          GPU: NVIDIA GeForce RTX 3060 
-        -@#######h       ######@.`        Memory: 2457MiB / 32768MiB
-       /#####h**``       `**%@####@       
-      @H@*`                    `*%#@    
-     *`                            `*  
+Developer who codes when bored • Currently running Hyprland on Arch • Making things work, one commit at a time
 
+<p align="center">
+  <a href="https://github.com/lostf1sh" style="text-decoration: none; display: inline-block;">
+    <img height="180em" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=lostf1sh&show_icons=true&theme=vue-dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/lostf1sh" style="text-decoration: none; display: inline-block;">
+    <img height="180em" style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lostf1sh&theme=vue-dark&hide_border=true&layout=compact" />
+  </a>
+</p>
+
+## 🚀 What I'm up to
+
+- 🌐 Building my personal website
+- 💻 Exploring web development 
+- 🎯 Learning new tech when inspiration strikes
+
+## 📫 Find me
+
+- Website: [f1sh.pics](https://f1sh.pics)
+- Instagram: [@kawaiimoli](https://instagram.com/kawaiimoli)
+
+---
