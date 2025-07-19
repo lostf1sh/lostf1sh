@@ -1,12 +1,12 @@
 ```
 ╭─────────────────────────────────────────────────╮
 │                                                 │
-│  ╭─ f1sh@saturn ─╮                             │
+│  ╭─ f1sh@saturn ─╮                              │
 │  │                │                             │
-│  │  > currently    drowning in code            │
-│  │  > location     saturn.exe                  │
-│  │  > website      moli.lat                    │
-│  │  > ig           @lxstf1sh                   │
+│  │  > currently    drowning in code             │
+│  │  > location     saturn.exe                   │
+│  │  > website      f1sh.pics                    │
+│  │  > ig           @lxstf1sh                    │
 │  │                                              │
 │  ╰────────────────╯                             │
 │                                                 │
