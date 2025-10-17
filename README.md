@@ -4,9 +4,9 @@
 │  ╭─ f1sh@saturn ─╮                              │
 │  │                │                             │
 │  │  > currently    drowning in code             │
-│  │  > location     saturn.exe                   │
-│  │  > website      f1sh.pics                    │
-│  │  > ig           @lxstf1sh                    │
+│  │  > location     saturn                       │
+│  │  > website      f1sh.dev                     │
+│  │  > ig           @kawaiimoli                  │
 │  │                                              │
 │  ╰────────────────╯                             │
 │                                                 │
