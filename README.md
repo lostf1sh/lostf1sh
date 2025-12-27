@@ -25,7 +25,7 @@
 
 ## tech stack (when i remember to use it)
 
-`typescript` `vue.js` `nextjs` `react` `dart` `flutter`
+`typescript` `vue.js` `nextjs` `react` `kotlin`
 
 ## current mission
 
