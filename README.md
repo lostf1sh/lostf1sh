@@ -1,15 +1,3 @@
-╭─────────────────────────────────────────────────╮
-│                                                 │
-│   f1sh                                          │
-│   izmir / saturn                                │
-│                                                 │
-│   web systems · self-inflicted complexity       │
-│                                                 │
-│   f1sh.dev                                      │
-│   ig: @kawaiimoli                               │
-│                                                 │
-╰─────────────────────────────────────────────────╯
-
 ## about
 
 17. Based in Izmir.  
