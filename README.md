@@ -1,35 +1,44 @@
-```
 ╭─────────────────────────────────────────────────╮
 │                                                 │
-│  ╭─ f1sh@saturn ─╮                              │
-│  │                │                             │
-│  │  > currently    drowning in code             │
-│  │  > location     saturn                       │
-│  │  > website      f1sh.dev                     │
-│  │  > ig           @kawaiimoli                  │
-│  │                                              │
-│  ╰────────────────╯                             │
+│   f1sh                                          │
+│   izmir / saturn                                │
+│                                                 │
+│   web systems · self-inflicted complexity       │
+│                                                 │
+│   f1sh.dev                                      │
+│   ig: @kawaiimoli                               │
 │                                                 │
 ╰─────────────────────────────────────────────────╯
-```
 
-## about.txt
+## about
 
-17, Izmir, student by day, web breaker by night. saturn resident with questionable life choices and a passion for overengineering simple problems. probably procrastinating on assignments while building random web apps.
+17. Based in Izmir.  
+Student by requirement, builder by compulsion.
 
-## stuff i break regularly
+Interested in systems that are slightly overdesigned, poorly justified,  
+and technically satisfying. Most projects start as procrastination and
+end as experiments in structure, tooling, or limits.
 
-- web apps that probably shouldn't exist
-- nix configs until 3am
-- my sleep schedule
+I don’t optimize for usefulness. I optimize for learning curves.
 
-## tech stack (when i remember to use it)
+## stack (non-binding)
 
-`typescript` `vue.js` `nextjs` `react` `kotlin`
+- TypeScript  
+- Vue  
+- React  
+- Next.js  
+- Kotlin
 
-## current mission
+Tools are interchangeable. Mental models aren’t.
 
-- building things nobody asked for but i find interesting  
-- making the web a slightly weirder place  
+## current trajectory
 
----
+- building things that solve no market problem  
+- exploring overengineering as a design choice  
+- bending the web until it either breaks or teaches something  
+
+## disclaimer
+
+This profile is not a portfolio.  
+Repositories are drafts, dead ends, or unfinished thoughts.  
+Stability is accidental. Insight is the objective.
