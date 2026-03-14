@@ -12,4 +12,4 @@ Building things that teach something.
 Usually overengineered. Rarely finished.
 
 **$ links**  
-[f1sh.dev](http://f1sh.dev) · [twitter](https://x.com/lxstf1sh) 
+[f1sh.dev](http://f1sh.v.recipes) · [twitter](https://x.com/lxstf1sh) 
