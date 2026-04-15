@@ -14,4 +14,3 @@ Checkout my [website](https://f1sh.v.recipes), [Twitter](https://x.com/lxstf1sh)
 - **[pomo](https://github.com/lostf1sh/pomo)** — Terminal-based pomodoro timer with TUI
 - **[PixelPlayerWeb](https://pixelplayer.netlify.app)** — Landing page for the PixelPlayer app
 - **[re-started](https://start.f1sh.dev)** — TUI-style browser startpage
-- **[dots](https://github.com/lostf1sh/dots)** — Config files for my Hyprland setup - Outdated
