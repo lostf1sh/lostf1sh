@@ -1,4 +1,4 @@
-17 y/o developer from Izmir. Building things that teach something. Usually overengineered. Rarely finished.
+Developer from Izmir. Building things that teach something. Usually overengineered. Rarely finished.
 
 Checkout my [website](https://f1sh.v.recipes), [Twitter](https://x.com/lxstf1sh), or [Instagram](https://instagram.com/kawaiimoli)
 
